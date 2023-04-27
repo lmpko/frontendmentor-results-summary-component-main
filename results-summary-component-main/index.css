@@ -150,6 +150,6 @@ p{
     .score-summary{
         width: 350px;
         border-radius: 0 25px 25px 0;
-        box-shadow: 4px 10px 70px -35px black;
+        box-shadow: 4px 10px 70px -35px hsl(241, 100%, 89%);
     }
  }
